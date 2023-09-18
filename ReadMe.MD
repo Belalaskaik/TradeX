@@ -8,7 +8,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage Guide](#usage-Guide)
+- [Running the Software](#running-the-software)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
