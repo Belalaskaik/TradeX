@@ -1,6 +1,6 @@
 # TradeX: Automated Trading Platform 📈
 
-![TradeX Logo](https://your-logo-url.com/logo.png)
+
 
 ## Table of Contents
 
