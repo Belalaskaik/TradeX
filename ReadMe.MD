@@ -17,11 +17,11 @@ TradeX is an automated trading platform designed to backtest and execute trading
 
 ## Features
 
-- **Data Retrieval**: Fetch historical price data from various sources.
-- **Trading Strategies**: Implement popular trading strategies like Moving Averages and Bollinger Bands.
-- **Backtesting**: Test your strategies on historical data.
+- **Data Retrieval**: Fetch historical price data from Yahoo Finance API for FNGU and FNGD.
+- **Trading Strategies**: Implement the popular trading strategies Moving Averages and Bollinger Bands.
+- **Backtesting**: Test your choice of strategies on historical data.
 - **Visualization**: Generate insightful graphs and tables.
-- **User Interface**: Command-line and planned web interface for user interaction.
+- **User Interface**: Command-line for user interaction.
 
 ## Technologies Used
 
