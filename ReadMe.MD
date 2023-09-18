@@ -8,7 +8,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage Guide](#usage-Guide)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -47,9 +47,21 @@ TradeX is an automated trading platform designed to backtest and execute trading
     pip install -r requirements.txt
     ```
 
-## Usage
+### Running the Software
 
-Run the main script to start the application:
+#### For Backtesting:
+1. Navigate to the `view` folder.
+2. Run `backtest.py`:
+    ```bash
+    python backtest.py
+    ```
+3. Follow the on-screen prompts to enter your trading strategy and time period.
 
-```bash
-python main.py
+#### For Data Visualization:
+1. Navigate to the `view` folder.
+2. Run `display.py`:
+    ```bash
+    python display.py
+    ```
+3. The script will automatically generate HTML files for plots and tables.
+
